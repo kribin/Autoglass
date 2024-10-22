@@ -1,0 +1,11 @@
+{
+    "name": "GlassType",
+    "alias": "glasstype",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\GlassType\\Providers\\GlassTypeServiceProvider"
+    ],
+    "files": []
+}
